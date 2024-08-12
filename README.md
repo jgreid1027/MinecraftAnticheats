@@ -39,4 +39,22 @@ Overall: 7/10
 
 Link: https://intave.de
 
+### AntiGamingChair (Private)
+AntiGamingChair is a custom anti-cheat used specifically for MMC (minemen.club).
+
+- Many Checks (AGC seems to have a lot of checks, ranging from autoclicker to aimassist, phase to fly, etc.)
+
+Falses: Doesn't false most of the time, 9/10.
+
+Bypasses: Has some bypasses like 250ms backtrack, and scaffold, 6/10.
+
+Pricing: You either can't get it or have to pay a lot for a worse version, 3/10.
+
+Overall: 7/10
+
+Link: N/A
+
+### Watchdog (Completely Private)
+wip
+
 
